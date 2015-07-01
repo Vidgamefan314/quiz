@@ -1,0 +1,13 @@
+[user]
+    name = vidgamefan314
+    email = tfarbs314@yahoo.com
+[core]
+    editor = nano
+    whitespace = off
+    excludesfile = ~/.gitignore
+[advice]
+    statusuoption = false
+[color]
+    ui = true
+[push]
+    default = simple
